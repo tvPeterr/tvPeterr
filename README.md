@@ -2,7 +2,7 @@
 
 <br>
 
-🔍 | I’m a Minecraft Server Owner
+🔍 | Im a Minecraft Server Owner
 
 🔱 | My Minecraft Server [PeterNetwork](https://www.peternetwork.it)
 
