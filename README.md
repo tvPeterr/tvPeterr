@@ -1,6 +1,6 @@
 ## 👋 tvPeter
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tvPeterr&label=Profile%20views&color=0e75b6&style=flat" alt="tvPeterr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tvPeterr&label=Profile%20views&color=cf6dcb&style=flat" alt="tvPeterr" /> </p>
 
 🔍 | I’m a Minecraft Server Owner and Setup Specialist
 
