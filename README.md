@@ -9,6 +9,6 @@
 🔱 | My Minecraft Server [PeterNetwork](https://www.peternetwork.it)
 
 ### My Project
-[![tvPeter Github Stats](https://github-readme-stats.vercel.app/api?username=tvPeterr&theme=radical)](https://github-readme-stats.vercel.app/api?username=tvPeterrf&theme=tokyonight)
+[![tvPeter Github Stats](https://github-readme-stats.vercel.app/api?username=tvPeterr&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=tvPeterrf&theme=tokyonight)
 
 <br>
